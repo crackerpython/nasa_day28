@@ -1,4 +1,3 @@
-import streamlit
 import streamlit as st
 import requests
 
